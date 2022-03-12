@@ -1,0 +1,13 @@
+Badminton,B1,RM300,Aaron
+Tennis,B2,RM500,Celiane
+Swimming,B3,RM400,Bryan
+Basketball,B8,RM400,Fin
+Table Tennis,B5,RM300,Dickson
+Gymnastics,B6,RM500,Elim
+Football,B7,RM450,Eric
+Basketball,B8,RM400,Fin
+Archery,B9,RM200,Helix
+Volleyball,B10,RM250,Issac
+Football,B7,RM310,Lingken
+Table Tennis,B5,RM400,Julia
+Basketball,B8,RM460,Ezrami

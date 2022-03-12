@@ -1,0 +1,12 @@
+Badminton,Monday,2:00pm-4:00pm,Sports Academy Ipoh,Aaron
+Tennis,Sunday,05:00-07:00,Sports Academy Meru,Celiane
+Swimming,Wednesday,10:30am-12:30pm,Sports Academy Canning,Bryan
+Cricket,Thursday,4:00pm-6:00pm,Sports Academy Hala,Desmond
+Table Tennis,Friday,3:00pm-5:00pm,Sports Academy Meru,Dickson
+Gymnastics,Saturday,3:30pm-5:30pm,Sports Academy Canning,Elim
+Football,Sunday,2:00pm-4:00pm,Sports Academy Ipoh,Eric
+Basketball,Monday,9:00am-11:00am,Sports Academy Hala,Fin
+Archery,Tuesday,1:00pm-3:00pm,Sports Academy Ipoh,Helix
+Volleyball,Wednesday,5:00pm-7:00pm,Sports Academy Meru,Issac
+Football,Thursday,3:00pm-5:00pm,Sports Academy Canning,Lingken
+Basketball,Tuesday,03:40-05:40,Sports Academy Ipoh,Ezrami

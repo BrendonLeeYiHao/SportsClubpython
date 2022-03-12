@@ -1,0 +1,13 @@
+Aaron,A100,5-4-2000,XX-XX-XXXX,RM150,Sports Academy Ipoh,S1,Badminton,B1,4,019-1291010,5 Jalan Medan Ipoh 31400 Ipoh Perak
+Bryan,A102,14-3-2004,XX-XX-XXXX,RM200,Sports Academy Hala,S4,Swimming,B3,4,0191202000,4 Jalan Medan Ipoh 30000 Ipoh Perak
+Celiane,A101,02032001,--------,RM125,Sports Academy Meru,S2,Tennis,B2,5,017-6663214,8 Jalan Meru 30000 Ipoh Perak
+Desmond,A103,07082003,--------,RM100,Sports Academy Hala,S4,Cricket,B4,3,012-9114587,1 Jalan Hala 31420 Ipoh Perak
+Dickson,A104,09092003,--------,RM150,Sports Academy Meru,S2,Table Tennis,B5,4,018-1135489,17 Taman Meru 30000 Ipoh Perak
+Elim,A105,11112004,--------,RM80,Sports Academy Canning,S3,Gymnastics,B6,4,012-5001011,2 Taman Canning 31400 Ipoh Perak
+Eric,A106,24122004,--------,RM225,Sports Academy Ipoh,S1,Football,B7,5,017-5771237,28 Jalan Tambun Ipoh 31400 Ipoh Perak
+Ezranie,A112,11-12-2007,XX-XX-XXXX,RM200,Sports Academy Hala,S4,Tennis,B2,4,0171919111,9 Jalan Hala Ipoh
+Fin,A107,07012005,--------,RM200,Sports Academy Hala,S4,Basketball,B8,5,017-4412358,9 Taman Hala 31400 Ipoh Perak
+Helix,A108,08092005,--------,RM100,Sports Academy Ipoh,S1,Archery,B9,2,019-9125123,17 Taman Ipoh 31400 Ipoh Perak
+Issac,A109,29092005,--------,RM125,Sports Academy Meru,S2,Volleyball,B10,3,012-5002001,10 Taman Meru Indah 30000 Ipoh Perak
+Julia,A111,07072006,--------,RM150,Sports Academy Hala,S4,Table Tennis,B5,2,012-2219999,2 Persiaran Hala 31400 Ipoh Perak
+Lingken,A110,05022006,--------,RM150,Sports Academy Canning,S3,Football,B7,4,017-7771277,31 Taman Canning Besar 31400 Ipoh Perak
